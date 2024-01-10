@@ -13,9 +13,13 @@ Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-t
     </a>
 </div>
 
-## Web Demo
+## My project
 
-- Integrated into [Huggingface Spaces 🤗](https://huggingface.co/spaces/akhaliq/yolov7) using Gradio. Try out the Web Demo [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/akhaliq/yolov7)
+The aim of this project is the detection of several objects such as weapons in the wild and livestreaming to prevent menace in the society.
+
+- You can use the live detection in detect_live.py with your webcam.
+
+The dataset [Sohas_weapon : https://github.com/ari-dasci/OD-WeaponDetection/tree/master/Weapons%20and%20similar%20handled%20objects](https://github.com/ari-dasci/OD-WeaponDetection/tree/master/Weapons%20and%20similar%20handled%20objects)
 
 ## Performance 
 
