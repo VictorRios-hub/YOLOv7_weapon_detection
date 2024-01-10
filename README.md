@@ -21,6 +21,8 @@ The aim of this project is the detection of several objects such as weapons in t
 
 The dataset [Sohas_weapon : https://github.com/ari-dasci/OD-WeaponDetection/tree/master/Weapons%20and%20similar%20handled%20objects](https://github.com/ari-dasci/OD-WeaponDetection/tree/master/Weapons%20and%20similar%20handled%20objects)
 
+[My final presentation](Presentation_projet_Victor_RIOS.pptx)
+
 ## Performance 
 
 MS COCO
