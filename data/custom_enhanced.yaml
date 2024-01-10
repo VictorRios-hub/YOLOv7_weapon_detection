@@ -1,0 +1,8 @@
+train: Sohas_weapon-Detection_enhanced/obj_train_data/images/train/
+val: Sohas_weapon-Detection_enhanced/obj_train_data/images/test/
+
+# number of classes
+nc: 7
+
+# class names
+names: ['gun', 'phone', 'knife', 'wallet', 'money', 'card', 'person']
