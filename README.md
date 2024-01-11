@@ -1,6 +1,6 @@
 # Weapon detection YOLOv7
 
-![La Haine](La Haine - Gun scene_Trim.mp4)
+![La Haine](Gun threat.jpg)
 
 ## My project
 
