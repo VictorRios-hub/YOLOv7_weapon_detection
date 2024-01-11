@@ -1,9 +1,6 @@
 # Weapon detection YOLOv7
 
-![Haine](https://github.com/VictorRios-hub/YOLOv7_weapon_detection/assets/99796369/137cc07e-cae4-4140-8dde-13cc8e25e7b7))
-
-
-
+https://github.com/VictorRios-hub/YOLOv7_weapon_detection/assets/99796369/7ba02e53-fbfe-4dea-8c32-d540e8b7af58
 
 
 ## My project
