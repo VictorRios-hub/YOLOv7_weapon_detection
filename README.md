@@ -1,6 +1,6 @@
 # Weapon detection YOLOv7
 
-![La Haine](results/Gun threat.jpg)
+![Haine](results/krav1.mp4)
 
 ## My project
 
